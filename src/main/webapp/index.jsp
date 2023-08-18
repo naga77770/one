@@ -5,6 +5,7 @@
 	<h2 style="color: bule; font-size: 30px;" align="center">WELCOME TO FRONTLINES MEDIA</h2>
         <h2 style="color: black; font-size: 30px;" align="center">This is updated</h2>
         <h2 style="color: black; font-size: 30px;" align="center">Naga Raju</h2>
+      <h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
 
 	
         
